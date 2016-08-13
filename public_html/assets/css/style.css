@@ -4432,8 +4432,8 @@ td.cart-list-item-price {
 	-moz-background-size: contain;
 	background-size: contain;
 	display: block;
-	height: 30px;
-	background-image: url("../img/logo.png");
+	height: 40px;
+	background-image: url("../img/lifecove/transparent.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	line-height: 30px;
@@ -5850,7 +5850,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 }
 
 .waiting-list-page .navigation-header .navigation-brand .brand-logo .logo {
-	background-image: url("../img/logo-inverted.png");
+	background-image: url("../img/lifecove/Transparent.png");
 }
 
 /* Media queries */
@@ -7811,5 +7811,9 @@ blockquote {
 	margin-left: 0;
 }
 
+}
+
+.line-spacing {
+    line-height: 2;
 }
 
